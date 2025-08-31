@@ -23,7 +23,7 @@ This is a simple web-based Calculator App built using HTML, CSS, and JavaScript.
 ![Calculator Screenshot](screenshot.png)  <!-- Replace with your actual screenshot -->
 
 ## Live Demo
-Access the live project here: [Calculator App Live](https://yourusername.github.io/calculator-app/)  
+Access the live project here: [Calculator App Live](https://Geetipriya.github.io/Calculator-App/)  
 
 ## Author
 **Geetipriya Naik**
